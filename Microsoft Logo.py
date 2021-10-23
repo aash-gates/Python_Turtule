@@ -10,6 +10,7 @@ turtle.Screen().bgcolor("black")
 s = 100
 t.screen.colormode(255)
 t.color(243, 79, 28)
+  t.forward(s) # Forward turtle by s units
 
 t.screen.colormode(255)
 t.color(127, 188, 0)
