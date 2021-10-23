@@ -5,6 +5,7 @@ turtle.setworldcoordinates(-300, -300, 300, 300)
 
 
 t = turtle.Turtle()
+turtle.Screen().bgcolor("black")
 
 t.screen.colormode(255)
 t.color(127, 188, 0)
