@@ -4,7 +4,6 @@ turtle.setworldcoordinates(-300, -300, 300, 300)
 
 
 
-for _ in range(4):
 
 t.screen.colormode(255)
 t.color(127, 188, 0)
