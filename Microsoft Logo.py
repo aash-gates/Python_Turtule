@@ -4,7 +4,6 @@ turtle.setworldcoordinates(-300, -300, 300, 300)
 
 
 
-t = turtle.Turtle()
 t.speed(2)
 turtle.Screen().bgcolor("black")
 s = 100
