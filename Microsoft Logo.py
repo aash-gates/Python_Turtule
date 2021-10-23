@@ -6,7 +6,6 @@ turtle.setworldcoordinates(-300, -300, 300, 300)
 
 t.speed(2)
 s = 100
-t.screen.colormode(255)
 t.color(243, 79, 28)
 t.begin_fill()
 for _ in range(4):
