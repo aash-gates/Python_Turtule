@@ -7,7 +7,6 @@ turtle.setworldcoordinates(-300, -300, 300, 300)
 t.speed(2)
 s = 100
 t.color(243, 79, 28)
-t.begin_fill()
 for _ in range(4):
   t.forward(s) # Forward turtle by s units
   t.left(90) # Turn turtle by 90 degree
