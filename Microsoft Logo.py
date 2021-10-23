@@ -7,6 +7,7 @@ turtle.setworldcoordinates(-300, -300, 300, 300)
 t = turtle.Turtle()
 t.speed(2)
 turtle.Screen().bgcolor("black")
+s = 100
 t.color(243, 79, 28)
 
 t.screen.colormode(255)
