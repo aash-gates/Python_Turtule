@@ -5,7 +5,6 @@ turtle.setworldcoordinates(-300, -300, 300, 300)
 
 
 for _ in range(4):
-  t.left(90) # Turn turtle by 90 degree
 
 t.screen.colormode(255)
 t.color(127, 188, 0)
