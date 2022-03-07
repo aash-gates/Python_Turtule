@@ -10,3 +10,4 @@ begin_fill()
 goto (100,100)
 goto (100,-100)
 #Draw windows
+goto(-50,-60)
