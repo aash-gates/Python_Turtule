@@ -15,3 +15,4 @@ goto(-50,60)
 end_fill()
 color('black')
 goto(15,100)
+#cut 2 equal parts
