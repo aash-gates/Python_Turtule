@@ -11,3 +11,4 @@ goto (100,100)
 goto (100,-100)
 #Draw windows
 goto(-50,-60)
+goto(-50,60)
